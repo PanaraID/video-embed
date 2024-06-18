@@ -1,0 +1,11 @@
+.container {
+  width: 80%;
+  max-width: 800px;
+  /* Atur nilai maksimum untuk menjaga agar tidak terlalu lebar */
+  margin: 0 auto;
+  /* Untuk membuat div berada di tengah */
+  border: 1px solid #ccc;
+  /* Hanya untuk visualisasi */
+  padding: 20px;
+  /* Atur padding sesuai kebutuhan */
+}
